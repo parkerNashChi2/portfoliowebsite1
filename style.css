@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #6006ae;
+    background: #6006ae !important;
     color: white;
     background-image: url(IMG_5862.PNG);
     background-size: cover;
